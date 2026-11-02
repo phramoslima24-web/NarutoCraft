@@ -1,0 +1,9 @@
+{
+  "item.narutocraft.ninja_book": "Pergaminho Shinobi",
+  "item.narutocraft.rasenshuriken_projectile": "Ragenshuriken",
+  "entity.narutocraft.rasenshuriken": "Ragenshuriken",
+  "itemGroup.narutocraft": "NarutoCraft",
+  "key.categories.narutocraft": "NarutoCraft",
+  "key.narutocraft.menu": "Abrir painel shinobi",
+  "key.narutocraft.cast": "Usar jutsu equipado"
+}

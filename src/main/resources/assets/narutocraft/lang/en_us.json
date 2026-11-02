@@ -1,0 +1,9 @@
+{
+  "item.narutocraft.ninja_book": "Shinobi Scroll",
+  "item.narutocraft.rasenshuriken_projectile": "Rasenshuriken",
+  "entity.narutocraft.rasenshuriken": "Rasenshuriken",
+  "itemGroup.narutocraft": "NarutoCraft",
+  "key.categories.narutocraft": "NarutoCraft",
+  "key.narutocraft.menu": "Open shinobi panel",
+  "key.narutocraft.cast": "Use equipped jutsu"
+}

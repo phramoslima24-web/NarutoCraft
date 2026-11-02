@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="narutocraft"
+version="0.1.0"
+displayName="NarutoCraft"
+description='''Mod de Naruto: painel de jutsus, atributos shinobi (SP/JP), dojutsus e jutsus iniciais.'''
+
+[[dependencies.narutocraft]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.narutocraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
